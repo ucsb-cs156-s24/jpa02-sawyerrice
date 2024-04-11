@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-s24/jpa02-sawyerrice
 
-Deployed at: https://jpa02-sawyerrice.dokku-06.cs.ucsb.edu
+Deployed at: http://jpa02-sawyerrice.dokku-06.cs.ucsb.edu
 
 
 # About this repo
